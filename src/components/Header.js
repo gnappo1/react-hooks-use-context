@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import ThemedButton from "./ThemedButton";
 import DarkModeToggle from "./DarkModeToggle";
 import { UserContext } from "../context/user";
